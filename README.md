@@ -97,7 +97,7 @@
 
 在 [Mixin Messenger](https://mixin.one/messenger) 上，有一个群，群号是 *7000102093*，里面有一万多人 —— 可能是目前国内最优质的小白社群。群里定期有公开课，并且定期会开放聊天机会…… 在那里，你可以向别人提问，也可以观察他人之间的讨论，很多你弄不明白的问题，可能一不小心就彻底被他人的对话解决掉了。
 
-### *注解 3 学区块链找我就对了*
+### *注解 3 学区块链请联系我
 
 截至现在，我已经写了三本区块链书籍，分别是《走进区块链》、《大话区块链》和《区块链实战教程》，除《大话区块链》由清华出版社于2019年出版之外，其他的两本都已经开源。
 
@@ -637,7 +637,7 @@ git push -u origin master
 > * [Bitcoin 白皮书（中英对照）](http://lixiaolai.com/#/bitcoin-whitepaper-cn-en-translation/Bitcoin-Whitepaper-EN-CN.html)
 > * [区块链小白书](https://blockchainlittlebook.com)
 
-
+### 注解人
 
 张应平，区块链从业者。[yingpingzhang@github](https://github.com/yingpingzhang)
 
