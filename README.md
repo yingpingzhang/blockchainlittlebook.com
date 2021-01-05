@@ -719,7 +719,7 @@ git push -u origin master
 > * [Bitcoin 白皮书（中英对照）](http://lixiaolai.com/#/bitcoin-whitepaper-cn-en-translation/Bitcoin-Whitepaper-EN-CN.html)
 > * [区块链小白书](https://blockchainlittlebook.com)
 
-### 注解人
+### 注解
 
 张应平，区块链从业者。[yingpingzhang@github](https://github.com/yingpingzhang)
 
