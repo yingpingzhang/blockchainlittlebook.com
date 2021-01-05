@@ -723,7 +723,8 @@ git push -u origin master
 
 张应平，区块链从业者。[yingpingzhang@github](https://github.com/yingpingzhang)
 
-- 著有[《大话区块链》](https://item.jd.com/12719282.html)（2019年11月由清华大学出版社出版）
-- 《走进区块链》
-- 《企业级区块链实战教程》
+> - 著有[《大话区块链》](https://item.jd.com/12719282.html)（2019年11月由清华大学出版社出版）
+> - 《走进区块链》
+> - 《企业级区块链实战教程》
+>
 
